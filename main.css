@@ -6,6 +6,12 @@
     margin-bottom: 28px; 
 }
 .content {
+    background: #0000001f;
+    padding: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    width: fit-content;
+    border-radius: 6px;
     text-align: center;
     font-family: 'Viga';
     font-size: 11px;
